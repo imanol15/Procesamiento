@@ -1,8 +1,6 @@
 # Procesamiento
 
 
-# Implementación de un Bróker MQTT Seguro y Aplicación de Python
-
 ## Autor: Imanol Anda Garcia
 
 Este proyecto simula un conjunto de generadores de un parque eólico y un concentrador que recoge y valida datos de producción de energía. Utiliza FastAPI para implementar un servicio de API que interactúa con los generadores.
